@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationTools", "LocalizationTools.csproj", "{320F22A1-9D1D-50D8-2F66-B76246649FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationTools.Editor", "LocalizationTools.Editor.csproj", "{5E0910C2-0C74-6061-2BB5-B1A5B8AE261B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{320F22A1-9D1D-50D8-2F66-B76246649FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320F22A1-9D1D-50D8-2F66-B76246649FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320F22A1-9D1D-50D8-2F66-B76246649FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320F22A1-9D1D-50D8-2F66-B76246649FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0910C2-0C74-6061-2BB5-B1A5B8AE261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0910C2-0C74-6061-2BB5-B1A5B8AE261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0910C2-0C74-6061-2BB5-B1A5B8AE261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0910C2-0C74-6061-2BB5-B1A5B8AE261B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
